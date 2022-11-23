@@ -10,7 +10,7 @@ Theory
 - [Lilian Weng blogpost](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [Diffusion Models | Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg&ab_channel=Outlier)
 
-Program
+Code
 - [hugging face tutorial](https://huggingface.co/blog/annotated-diffusion)
 - [video](https://www.youtube.com/watch?v=a4Yfz2FxXiY&ab_channel=DeepFindr)
 - [video](https://www.youtube.com/watch?v=TBCRlnwJtZU&ab_channel=Outlier)
